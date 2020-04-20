@@ -7,6 +7,6 @@
 
 <body>
 <center><h1><b> This Main Page </b></h1></center><br>
-<a href="Getuser.php"><h1> Getuser </h1></a>
+<a href="GeUser.php"><h1> Getuser </h1></a>
 </body>
 </html>
